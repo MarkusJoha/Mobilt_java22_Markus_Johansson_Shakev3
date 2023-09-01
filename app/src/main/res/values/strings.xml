@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shake v3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_desc">Dog image</string>
+    <string name="button_text">Log Accelerometer Data</string>
+    <string name="accelerometer_text">Accelerometer Values:</string>
+    <string name="port_text">You´re in portrait mode!</string>
+    <string name="x_value">X: 0.0</string>
+    <string name="y_value">Y: 0.0</string>
+    <string name="z_value">Z: 0.0</string>
+</resources>
